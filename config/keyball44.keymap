@@ -43,7 +43,6 @@
                    &kp GRAVE  &kp LGUI  &kp BSPC   &kp SPACE  &none   &kp RET  &kp LBKT   &kp RBKT
                    &kp LALT   &kp LALT  &kp LCTRL  &kp DEL    &none   &none    &kp LCTRL  &kp LALT                          
             >;
-
         };
 
         number_layer {
@@ -56,7 +55,6 @@
                &trans   &trans   &trans   &trans  &none   &none      &kp KP_N0  &kp KP_DOT
                &trans   &none    &trans   &trans  &trans  &trans     &none      &trans                                                
             >;
-
         };
 
         symbol_layer {
@@ -105,7 +103,6 @@
                             &none         &none         &none         &none         &none         &none         &none         &none
                             &none         &none         &none         &none         &none         &none         &none         &none
             >;
-      
         };
 
         snipe_layer {
@@ -117,7 +114,6 @@
 &none         &none         &none         &none         &none         &none         &none         &none         &none         &none         &none         &none
                             &none         &none         &none         &none         &none         &none         &none         &none
                             &none         &none         &none         &none         &none         &none         &none         &none
-            >;
             >;
         };
     };
